@@ -64,8 +64,8 @@
 
 ### Setup
 
-> <p> git clone https://github.com/rica213/set-up-webpack.git</p>
-> cd set-up-webpack
+> <p> git clone https://github.com/DilsherB/webpack-demo</p>
+> cd webpack-demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,11 +87,11 @@ To install this project in your local machine use
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Clarielle Larissa**
+👤 **Dilsher Balouch**
 
-- GitHub: [@rica213](https://github.com/rica213)
-- Twitter: [@alc3and](https://twitter.com/alc3and)
-- LinkedIn: [Clarielle Larissa](https://www.linkedin.com/in/larissa-clarielle-andrainasoa-8768a3256/)
+- GitHub: [@Dilsher](https://github.com/DilsherB)
+- Twitter: [@Dilsher](https://twitter.com/_brilliantMindz)
+- LinkedIn: [@Dilsher](https://www.linkedin.com/in/brilliantmindz/)
 
 <!-- FUTURE FEATURES -->
 
@@ -103,7 +103,7 @@ To install this project in your local machine use
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rica213/set-up-webpack/issues).
+Feel free to check the [issues page](https://github.com/DilsherB/webpack-demo/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
@@ -119,13 +119,5 @@ Feel free to check the [issues page](https://github.com/rica213/set-up-webpack/i
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank Microverse team
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
